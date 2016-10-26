@@ -6,4 +6,6 @@ In this little project I developed a suite where you can load ECG signal from MI
 
 In the other part of the suite, you can find a little aplicattion to model your own ECG signal (to model some sick symptom) and the use it to analyze.
 
+Unzip the folder and execute "ecg_gui.fig". You'll find all the libraries I used for do it and some examples.
+
 I hope you like it!!!
